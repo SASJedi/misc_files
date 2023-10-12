@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=en-us:Mark Jordan;a.k.a. SAS Jedi;Mr.
+FN:Mr. Mark Jordan, a.k.a. SAS Jedi
+ORG:SAS Institute, Inc.
+TITLE:Principal Technical Training Consultant
+TEL;CELL;VOICE:+1 (919) 607-3263
+TEL;WORK;FAX:+1 (919) 677-4444
+ADR;HOME:;;;WILLIAMSBURG;VA;;United States of America
+LABEL;HOME:WILLIAMSBURG, VA
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:0
+EMAIL;PREF;INTERNET:mark.jordan@sas.com
+REV:20231012T172044Z
+END:VCARD
